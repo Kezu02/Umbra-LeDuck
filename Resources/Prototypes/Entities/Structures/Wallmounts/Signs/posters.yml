@@ -1051,6 +1051,26 @@
     - type: Sprite
       state: poster51_legit
 
+- type: entity
+  parent: PosterBase
+  id: PosterLegitLeDuck
+  name: "That Which Does Not Exist"
+  description: "You may feel a cold stare creeping down your spine, but you will resist. Always remember: You do not see it. It does not exist. It cannot hurt you."
+  components:
+    - type: Sprite
+      state: poster52_legit
+
+
+- type: entity
+  parent: PosterBase
+  id: PosterLegitLogoUmbra
+  name: "The Anatidae Constellation"
+  description: "They say this set of stars form the shape of a duck. Can you see it?"
+  components:
+    - type: Sprite
+      state: poster53_legit
+
+
 #maps
 
 - type: entity
